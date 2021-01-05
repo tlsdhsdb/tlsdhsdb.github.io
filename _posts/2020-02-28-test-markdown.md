@@ -10,23 +10,17 @@ comments: true
 
 This is a demo post to show you how to write blog posts with markdown.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](https://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/headings/tables/etc.
 
-**Here is some bold text**
+**ETL이란?**
 
 ## Here is a secondary heading
 
-Here's a useless table:
+ETL (Extract,Transform,Load)
 
-| Number | Next number | Previous number |
-| :------ |:--- | :--- |
-| Five | Six | Four |
-| Ten | Eleven | Nine |
-| Seven | Eight | Six |
-| Two | Three | One |
+추출,변환,적재
+
+A라는 데이터를 B라는 데이터의 형태로 변환하기위한 일련의 과정을 말함.
 
 
-How about a yummy crepe?
-
-![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
 
 It can also be centered!
 
